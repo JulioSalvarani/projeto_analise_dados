@@ -1,0 +1,4 @@
+Objetivo da Análise: 
+Procurar fatores associados a vendas de alto valor e características aumentam a probabilidade de uma venda ser de alto valor.
+
+Foi utilizado o conceito de árvore de decisão e a biblioteca "pandas" do Python.
